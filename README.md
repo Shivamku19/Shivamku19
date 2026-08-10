@@ -1,8 +1,3 @@
-Got it! Here is the finalized code with your correct Codolio profile link (`Botuser`) securely in place. 
-
-You can copy and paste this straight into your `README.md` file:
-
-```markdown
 <div align="center">
 
 <h1>
@@ -22,6 +17,9 @@ You can copy and paste this straight into your `README.md` file:
   </a>
   <a href="https://www.codechef.com/users/bottuser" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" style="margin: 5px 10px; border-radius: 12px;" />
+  </a>
+  <a href="https://codeforces.com/profile/77shivam77" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" style="margin: 5px 10px; border-radius: 12px;" />
   </a>
   <a href="https://codolio.com/profile/Botuser" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" style="margin: 5px 10px; border-radius: 12px;" />
@@ -52,7 +50,7 @@ You can copy and paste this straight into your `README.md` file:
 
 🧠 Currently deep-diving into **Advanced Data Structures and Algorithms (DSA)** to sharpen my problem-solving skills and write highly optimized code.
 
-🏆 **Competitive Programmer** — Actively solving complex algorithmic challenges on LeetCode, CodeChef, and tracking progress on Codolio.
+🏆 **Competitive Programmer** — Actively solving complex algorithmic challenges on Codeforces, LeetCode, CodeChef, and tracking progress on Codolio.
 
 💬 **Let's talk about:**
 - Full-Stack architecture & Web Development 
@@ -136,4 +134,3 @@ A dedicated platform designed to streamline digital healthcare connections and s
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:211a2c,50:342946,100:8245ec&height=120&section=footer&text=Thank%20You%20For%20Visiting&fontSize=24&fontColor=ffffff&animation=fadeIn" style="opacity: 0.9;"/>
 </div>
-```
