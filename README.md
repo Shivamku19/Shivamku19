@@ -9,7 +9,7 @@ Computer Science @ IIIT Bhagalpur · Class of 2027 · Open to SWE internships
 
 <a href="https://github.com/Shivamku19"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/shivamku19"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="YOUR_RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Résumé-1A1A1A?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+<a href="https://drive.google.com/file/d/1gnfcI6lSByo50aFAvrdMCZFALg5BLe3-/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-1A1A1A?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"/></a>
 <a href="mailto:shivamgzp612005@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
 </div>
