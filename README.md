@@ -69,8 +69,8 @@ Engineered a telemedicine platform with role-specific dashboards and secure Edge
 - Implemented real-time video consultations using the Vonage Server SDK, WebRTC, and session-based authentication
 - Deployed edge authentication using Next.js Middleware and Clerk RBAC to secure protected routes
 
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-1A1A1A?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Shivamku19"><img src="https://img.shields.io/badge/Source-1A1A1A?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://mycareconnect.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-1A1A1A?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Shivamku19/CareConnect"><img src="https://img.shields.io/badge/Source-1A1A1A?style=flat-square&logo=github&logoColor=white"/></a>
 
 ### Thinkmate — AI-Powered Conversational Assistant
 `React.js` `Node.js` `Express` `MongoDB` `OpenAI API`
@@ -81,8 +81,8 @@ Decoupled MERN stack AI platform tailored for dynamic code block rendering and i
 - Architected a secure Express backend with JWT authentication, managing data persistence across 4 distinct database schemas with Mongoose ORM
 - Designed a credit monetization system via Stripe API, featuring end-to-end checkout workflows and secure webhook validation
 
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-1A1A1A?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Shivamku19"><img src="https://img.shields.io/badge/Source-1A1A1A?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://mythinkmate.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-1A1A1A?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Shivamku19/Thinkmate"><img src="https://img.shields.io/badge/Source-1A1A1A?style=flat-square&logo=github&logoColor=white"/></a>
 
 <details>
 <summary><b>More projects</b></summary>
