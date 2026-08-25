@@ -22,10 +22,10 @@ Computer Science @ IIIT Bhagalpur · Class of 2027 · Open to SWE internships
 
 I care about building robust, scalable applications that solve real-world problems: secure role-based access, real-time communications, and optimized data delivery.
 
-Most of what I've built focuses on seamless user experiences powered by strong architectures — a telehealth platform with atomic transactions and WebRTC video, and an AI conversational assistant managing hundreds of interactions with a decoupled MERN stack.
+Most of what I've built focuses on seamless user experiences powered by strong architectures — from an AI financial platform running reliable background jobs to a telehealth system with atomic transactions and WebRTC video.
 
 - **Currently** — deepening full-stack expertise (Next.js 15, System Design, Database Management & Optimization)
-- **Recently** — shipped CareConnect (Next.js + Postgres + Prisma) and Thinkmate (MERN + OpenAI)
+- **Recently** — shipped Welth (Next.js + Gemini AI + Inngest) and CareConnect (Next.js + Postgres)
 - **Ask me about** — Next.js architecture, RESTful API design, Database schemas (Postgres/MongoDB), C++ DSA
 
 ---
@@ -52,15 +52,30 @@ Most of what I've built focuses on seamless user experiences powered by strong a
 ![MongoDB](https://img.shields.io/badge/MongoDB-1A1A1A?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Prisma](https://img.shields.io/badge/Prisma-1A1A1A?style=flat-square&logo=prisma&logoColor=2D3748)
 
-**Developer Tools**<br>
+**Tools & Services**<br>
 ![Git](https://img.shields.io/badge/Git-1A1A1A?style=flat-square&logo=git&logoColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-1A1A1A?style=flat-square&logo=postman&logoColor=FF6C37)
 ![Vercel](https://img.shields.io/badge/Vercel-1A1A1A?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-1A1A1A?style=flat-square&logo=render&logoColor=46E3B7)
+![Postman](https://img.shields.io/badge/Postman-1A1A1A?style=flat-square&logo=postman&logoColor=FF6C37)
+![Clerk](https://img.shields.io/badge/Clerk-1A1A1A?style=flat-square&logo=clerk&logoColor=6C47FF)
+![OpenAI](https://img.shields.io/badge/OpenAI-1A1A1A?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-1A1A1A?style=flat-square&logo=googlegemini&logoColor=8E75B2)
 
 ---
 
 ## Selected Work
+
+### Welth — AI-Powered Finance Platform
+`Next.js` `React` `Prisma` `PostgreSQL` `Gemini AI` `Inngest`
+
+Engineered a comprehensive financial management platform with automated tracking, intelligent AI insights, and robust background processing.
+
+- Architected a serverless backend using Next.js App Router, integrating Google Generative AI (Gemini) for smart financial categorization and personalized budgeting advice
+- Secured the platform on the edge using Clerk authentication and Arcjet bot protection, managing complex relational data via Prisma and PostgreSQL
+- Dispatched heavy asynchronous workflows and cron jobs using Inngest, ensuring reliable automated email notifications via Resend without blocking the main UI thread
+
+<a href="https://mywelth.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-1A1A1A?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Shivamku19/Welth"><img src="https://img.shields.io/badge/Source-1A1A1A?style=flat-square&logo=github&logoColor=white"/></a>
 
 ### CareConnect — Telehealth Platform
 `Next.js` `React` `Prisma` `PostgreSQL` `WebRTC`
