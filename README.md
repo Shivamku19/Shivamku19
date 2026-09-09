@@ -7,7 +7,7 @@
 Building scalable web applications end-to-end — Node.js/Express services on the backend, React & Next.js on the frontend.<br>
 Computer Science @ IIIT Bhagalpur · Class of 2027 · Open to SWE internships
 
-<a href="https://github.com/Shivamku19"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/Shivamku19"><img src="https://img.shields.io/badge/GitHub-007BFF?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/shivamku19"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://drive.google.com/file/d/1hZg00Xo1gP-MYt7I6YlEBdB3iBTfPULJ/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-1A1A1A?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"/></a>
 <a href="mailto:shivamgzp612005@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
@@ -74,8 +74,8 @@ Engineered a comprehensive financial management platform with automated tracking
 - Secured the platform on the edge using Clerk authentication and Arcjet bot protection, managing complex relational data via Prisma and PostgreSQL
 - Dispatched heavy asynchronous workflows and cron jobs using Inngest, ensuring reliable automated email notifications via Resend without blocking the main UI thread
 
-<a href="https://mywelth.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-1A1A1A?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Shivamku19/Welth"><img src="https://img.shields.io/badge/Source-1A1A1A?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://mywelth.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-007BFF?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Shivamku19/Welth"><img src="https://img.shields.io/badge/Source-007BFF?style=flat-square&logo=github&logoColor=white"/></a>
 
 ### CareConnect — Telehealth Platform
 `Next.js` `React` `Prisma` `PostgreSQL` `WebRTC`
@@ -86,8 +86,8 @@ Engineered a telemedicine platform with role-specific dashboards and secure Edge
 - Implemented real-time video consultations using the Vonage Server SDK, WebRTC, and session-based authentication
 - Deployed edge authentication using Next.js Middleware and Clerk RBAC to secure protected routes
 
-<a href="https://mycareconnect.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-1A1A1A?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Shivamku19/CareConnect"><img src="https://img.shields.io/badge/Source-1A1A1A?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://mycareconnect.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-007BFF?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Shivamku19/CareConnect"><img src="https://img.shields.io/badge/Source-007BFF?style=flat-square&logo=github&logoColor=white"/></a>
 
 ### Thinkmate — AI-Powered Conversational Assistant
 `React.js` `Node.js` `Express` `MongoDB` `OpenAI API`
@@ -98,8 +98,8 @@ Decoupled MERN stack AI platform tailored for dynamic code block rendering and i
 - Architected a secure Express backend with JWT authentication, managing data persistence across 4 distinct database schemas with Mongoose ORM
 - Designed a credit monetization system via Stripe API, featuring end-to-end checkout workflows and secure webhook validation
 
-<a href="https://mythinkmate.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-1A1A1A?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/Shivamku19/Thinkmate"><img src="https://img.shields.io/badge/Source-1A1A1A?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://mythinkmate.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-007BFF?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Shivamku19/Thinkmate"><img src="https://img.shields.io/badge/Source-007BFF?style=flat-square&logo=github&logoColor=white"/></a>
 
 <details>
 <summary><b>More projects</b></summary>
