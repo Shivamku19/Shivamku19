@@ -117,8 +117,13 @@ Real-time computer vision and voice-coaching fitness assistant that analyzes exe
 
 <br>
 
-**Thinkmate** · `MERN` `OpenAI API` `Stripe`<br>
+**Thinkmate — AI-Powered Conversational Assistant** · `React.js` `Node.js` `Express` `MongoDB` `OpenAI API`<br>
 Decoupled full-stack AI platform with dynamic code rendering, JWT auth, and Stripe credit checkout.
+
+<p>
+  <a href="https://mythinkmate.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-28A745?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/Shivamku19/Thinkmate"><img src="https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
 **Tourist Safety System** · `Blockchain`<br>
 Smart India Hackathon 2025 shortlist — a blockchain-based Tourist Safety System.
