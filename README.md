@@ -68,9 +68,9 @@ Most of what I've built focuses on seamless user experiences powered by strong a
 
 ---
 
-## 🚀 Selected Work
+## Selected Work
 
-### 💰 Welth — AI-Powered Finance Platform
+### Welth — AI-Powered Finance Platform
 `Next.js` `React` `Prisma` `PostgreSQL` `Gemini AI` `Inngest`
 
 Comprehensive financial management platform featuring automated tracking, intelligent AI insights, and background processing.
@@ -84,7 +84,7 @@ Comprehensive financial management platform featuring automated tracking, intell
 
 ---
 
-### 🩺 CareConnect — Telehealth Platform
+### CareConnect — Telehealth Platform
 `Next.js` `React` `Prisma` `PostgreSQL` `WebRTC`
 
 Telemedicine platform with role-specific dashboards, video consultations, and secure Edge authentication.
@@ -98,7 +98,7 @@ Telemedicine platform with role-specific dashboards, video consultations, and se
 
 ---
 
-### ⚡ Realtime AI Gym Trainer
+### Realtime AI Gym Trainer
 `Python` `MediaPipe` `OpenCV` `Streamlit` `Groq LLM` `WebRTC`
 
 Real-time computer vision and voice-coaching fitness assistant that analyzes exercise form, flags biomechanical flaws, and counts reps with sub-second feedback.
@@ -113,7 +113,7 @@ Real-time computer vision and voice-coaching fitness assistant that analyzes exe
 ---
 
 <details>
-<summary><b>📂 More Projects</b></summary>
+<summary><b>More Projects</b></summary>
 
 <br>
 
