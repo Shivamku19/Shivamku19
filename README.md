@@ -1,3 +1,6 @@
+Here is your updated Markdown code with the new résumé link:
+
+```markdown
 <div align="center">
 
 # Shivam Kumar 👋
@@ -10,7 +13,7 @@ Computer Science @ IIIT Bhagalpur · Class of 2027 · Open to SWE internships
 <p align="center">
   <a href="https://github.com/Shivamku19"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/shivamku19"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://drive.google.com/file/d/14AVJSScJfjXN8G2Zqx8NGXnCbkSub0VD/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-28A745?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="https://drive.google.com/file/d/1UrHp8tz3HoUirD3l6FrSztmhHDfRN8P6/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-28A745?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"/></a>
   <a href="mailto:shivamgzp612005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/u/BOTUSER01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.codechef.com/users/bottuser"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/></a>
@@ -149,3 +152,4 @@ Smart India Hackathon 2025 shortlist — a blockchain-based Tourist Safety Syste
 The fastest way to reach me is on [LinkedIn](https://www.linkedin.com/in/shivamku19) or via [Email](mailto:shivamgzp612005@gmail.com).
 
 </div>
+```
