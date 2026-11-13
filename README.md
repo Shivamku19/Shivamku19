@@ -1,6 +1,3 @@
-Here is your updated Markdown code with the new résumé link:
-
-```markdown
 <div align="center">
 
 # Shivam Kumar 👋
